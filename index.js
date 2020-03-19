@@ -7,7 +7,7 @@ const map = new window.google.maps.Map($map, {
     lat: 39.381266,
     lng: -97.922211
   },
-  zoom: 3,
+  zoom: 4,
   styles: styles
 });
 
